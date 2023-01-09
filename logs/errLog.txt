@@ -1,0 +1,22 @@
+20221229	02:15:27	ed47301f-7f49-415d-ba5d-708b0cee9130	Error: Not allowed by CORS
+20221229	02:15:27	d5cd303a-ba31-4623-acff-1b0b626b4faf	Error: Not allowed by CORS
+20221229	17:01:51	07bf7eab-cdfc-4882-9886-1b35316039dd	TypeError: req.json is not a function
+20221229	17:13:14	47d076d8-8572-46b5-bb9a-8b9bc493bf93	TypeError: req.json is not a function
+20230102	14:16:55	84dd34e7-4c82-4016-949f-96affbe3c0f3	SyntaxError: Unexpected token ' in JSON at position 1
+20230102	22:54:28	cc6a65f7-32b0-493e-b358-e552710e9e28	Error: Not allowed by CORS
+20230102	22:54:28	e5bbc528-a856-469b-bbb7-f2096555c83f	Error: Not allowed by CORS
+20230102	23:00:41	4412f4f0-489b-441a-85d3-b45b6b4cf7a9	Error: Not allowed by CORS
+20230102	23:00:41	fda27189-cd7c-4ad7-b0da-508d6dcf99dc	Error: Not allowed by CORS
+20230102	23:00:44	6d7930da-7729-480a-9a99-a0aa0831e5e3	Error: Not allowed by CORS
+20230102	23:00:44	e081c9a1-b5e6-4bc5-a6e2-49dfcfb23299	Error: Not allowed by CORS
+20230102	23:01:19	12a843fc-bcbc-4df0-9faf-3ea4463374e2	Error: Not allowed by CORS
+20230102	23:01:19	21b5d781-705c-4d78-b666-1ed452f064b1	Error: Not allowed by CORS
+20230102	23:01:47	ee149535-2eeb-4406-8f5c-e5eb620a410e	Error: Not allowed by CORS
+20230102	23:01:47	a3d69a87-c0b5-48fc-accc-1497debd12f1	Error: Not allowed by CORS
+20230102	23:02:52	d9dece41-1911-4da7-996c-1c1ba7bbbac4	Error: Not allowed by CORS
+20230102	23:02:52	a7f4a2b3-d2bf-4cb8-91c9-d6d71309eb61	Error: Not allowed by CORS
+20230102	23:03:19	3d95dd9e-5559-4345-a06c-c480b5e0c140	Error: Not allowed by CORS
+20230102	23:03:21	bb614f0b-f1eb-4433-916e-d11071f85539	Error: Not allowed by CORS
+20230102	23:03:21	8ea6a1b2-2f5c-458a-8070-f96c38e8d542	Error: Not allowed by CORS
+20230103	21:56:03	4212f0fe-38f7-49a8-ba62-70ee72ad5f4f	ReferenceError: authheader is not defined
+20230103	21:56:18	bde3a106-f148-4639-9033-e6b4a9861eb7	ReferenceError: authheader is not defined
